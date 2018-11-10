@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\dj-mx\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_CheckMateMate.-639245871.00" t="ExcludeRecursive" />
+    <e p="C:\Users\dj-mx\Desktop\Proyectos\CheckMateMate" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Enums" t="Include">
+          <e p="BulletType.cs" t="Include" />
+          <e p="EnemyType.cs" t="Include" />
+          <e p="EntityType.cs" t="Include" />
+          <e p="ItemType.cs" t="Include" />
+        </e>
+        <e p="getScore.cs" t="Include" />
+        <e p="getText.cs" t="Include" />
+        <e p="N3K" t="Include">
+          <e p="VirtualJoystick" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="PlayerMovement.cs" t="Include" />
+              <e p="VirtualJoystick.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ParticleController.cs" t="Include" />
+        <e p="passText.cs" t="Include" />
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="Anton OFL.txt" t="Include" />
+            <e p="Bangers - OFL.txt" t="Include" />
+            <e p="LiberationSans - OFL.txt" t="Include" />
+            <e p="NotoSans - License.txt" t="Include" />
+            <e p="Oswald Bold - OFL.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Brains" t="Include">
+            <e p="AbstractBrain.cs" t="Include" />
+            <e p="AlfilBrain.cs" t="Include" />
+            <e p="CaballoBrain.cs" t="Include" />
+            <e p="KasparovBrain.cs" t="Include" />
+            <e p="PeonBrain.cs" t="Include" />
+            <e p="ReinaBrain.cs" t="Include" />
+            <e p="ReyBrain.cs" t="Include" />
+            <e p="TorreBrain.cs" t="Include" />
+          </e>
+          <e p="Constants.cs" t="Include" />
+          <e p="Controllers" t="Include">
+            <e p="BulletController.cs" t="Include" />
+            <e p="CameraController.cs" t="Include" />
+            <e p="CellController.cs" t="Include" />
+            <e p="CollisionDamager.cs" t="Include" />
+            <e p="GameController.cs" t="Include" />
+            <e p="GameEntityController.cs" t="Include" />
+            <e p="GunController.cs" t="Include" />
+            <e p="InputController.cs" t="Include" />
+            <e p="InvokeEnemiesController.cs" t="Include" />
+            <e p="ItemController.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="UiController.cs" t="Include" />
+          </e>
+          <e p="JoystickController.cs" t="Include" />
+          <e p="Model" t="Include">
+            <e p="Cell.cs" t="Include" />
+            <e p="Levels" t="Include">
+              <e p="Level.cs" t="Include" />
+              <e p="Wave.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Pool" t="Include">
+            <e p="BulletPool.cs" t="Include" />
+            <e p="EnemyPool.cs" t="Include" />
+            <e p="ParticlePool.cs" t="Include" />
+            <e p="PowerUpPool.cs" t="Include" />
+          </e>
+          <e p="Utils" t="Include">
+            <e p="ExitGame.cs" t="Include" />
+            <e p="Graph" t="Include">
+              <e p="Edge.cs" t="Include" />
+              <e p="Graph.cs" t="Include" />
+              <e p="Node.cs" t="Include" />
+            </e>
+            <e p="MapDrawer.cs" t="Include" />
+            <e p="MathUtils.cs" t="Include" />
+            <e p="PrefabPool.cs" t="Include" />
+            <e p="SoundsLoader.cs" t="Include" />
+            <e p="SpritesLoader.cs" t="Include" />
+          </e>
+        </e>
+        <e p="soundVolume.cs" t="Include" />
+        <e p="Virtual Joystick Pack" t="Include">
+          <e p="Example" t="Include">
+            <e p="PlayerExample.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Base" t="Include">
+              <e p="Joystick.cs" t="Include" />
+            </e>
+            <e p="Joysticks" t="Include">
+              <e p="FixedJoystick.cs" t="Include" />
+              <e p="FloatingJoystick.cs" t="Include" />
+              <e p="VariableJoystick.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="CheckMateMate.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
